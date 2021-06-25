@@ -1,0 +1,24 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlcampana/cypress-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlcampana/cypress-test/issues"
+  },
+  "homepage": "https://github.com/jlcampana/cypress-test#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  }
+}
